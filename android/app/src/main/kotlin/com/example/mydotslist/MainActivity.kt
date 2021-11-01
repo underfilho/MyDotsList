@@ -1,0 +1,6 @@
+package com.example.mydotslist
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
